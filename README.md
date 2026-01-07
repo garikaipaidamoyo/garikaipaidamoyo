@@ -1,8 +1,16 @@
-# 👋 Hi, I’m Paidamoyo Garikai
-- 👀 I’m interested in coding especially in C, Python, HTML, CSS and Javascript
-- 🌱 I’m currently learning Software Engineering with ALX
-- 💞️ I’m looking to upgrade my skills through peer programming and collaboration
-- 📫 How to reach me garikaipaidamoyo@gmail.com
+## Hi, I'm Paidamoyo 👋
+
+🎓 Software Engineering student  
+💻 Backend-focused developer (Python, Databases, APIs)  
+🌱 Currently improving my skills in system design and scalable applications  
+🚀 Interested in backend, full-stack, and junior developer roles  
+
+### Tech Stack
+- Python
+- SQL / Databases
+- HTML, JavaScript, React
+- Git & GitHub
+
 
 <!---
 garikaipaidamoyo/garikaipaidamoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
